@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "krunal",
+        "MONGO_PASSWORD": "krunal",
+        "MONGO_DB": "events-react-dev"
+    }
+}
